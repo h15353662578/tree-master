@@ -1,6 +1,6 @@
 <template>
   <div class="slogan">
-    <span id="title">圣诞快乐 心怡</span><br/>
+    <span id="title">圣诞快乐 梦雨</span><br/>
     <span id="from">To.Huasheng</span>
   </div>
 </template>
